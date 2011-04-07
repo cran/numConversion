@@ -7,7 +7,7 @@ check.as.character <- function(eps)
 	shift <- sort(c(1 + 10*(0:n), 10*(1:n)))
 	char <- rep(0, times=length(kpower))
 	num <- rep(0, times=length(kpower))
-	for (i in seq.int(along=shift)) {
+	for (i in seq.int(along.with=shift)) {
 		x <- base.power - (shift[i] - eps)*ulp.power
 		y <- base.power - (shift[i] - 1 + eps)*ulp.power
 		char <- char + (as.character(x) == as.character(y))
