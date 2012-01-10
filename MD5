@@ -1,0 +1,10 @@
+beb571c980a1fc71755af38d4b78866f *DESCRIPTION
+f233bbaba57f40d15cefca82dc0171a5 *NAMESPACE
+a091e6a766b95c91846539eb27549df3 *R/check.R
+939d78138c9640f115593086faaa3b7e *R/scientific.R
+2cfe1198f6311c5e3d6ea2b7be67e61e *man/check.format.Rd
+e693574913d2df6f713822458eab10d3 *man/check.random.Rd
+50822a3f61054c93545e9614fc0d80f6 *man/get.format.from.sci.Rd
+a04edb9f7332fe1335dfee6aabea6491 *man/scientific.mpfr.Rd
+eb658947ea40871f5b6ce9c714484807 *tests/conditionalTest.R
+5922be8f6a05de6b4f7959fb582e7f0f *tests/shortTest.R
